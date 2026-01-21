@@ -6,7 +6,7 @@ AI/ML Engineer | Applied Machine Learning | Data-driven Problem Solver
 ---
 
 ### 👨‍💻 About Me
-- Final-year Computer Engineering student  
+- Pre-final year Computer Engineering student  
 - Strong focus on **Machine Learning, Data Analysis, and Applied AI**
 - Enjoy working on **real-world datasets**, not toy problems
 - Interested in **AI systems that scale and create impact**
