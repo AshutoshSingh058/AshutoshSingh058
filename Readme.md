@@ -43,12 +43,6 @@ _(More in repositories ↓)_
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshsingh058&show_icons=true&hide_border=true" />
-</p>
-
----
 
 ### 🤝 Connect
 - 💼 LinkedIn: https://linkedin.com/in/ashutoshsingh058
